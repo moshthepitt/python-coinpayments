@@ -1,0 +1,22 @@
+# load from setup.py
+-e .
+
+# others
+Sphinx
+twine
+bumpversion
+wheel
+watchdog
+pylint
+tox
+flake8
+pep8
+coverage
+yapf
+isort
+ipdb
+black
+pip
+pip-tools
+pytest
+pytest-runner
