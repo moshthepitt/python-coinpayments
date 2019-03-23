@@ -6,7 +6,7 @@ Python CoinPayments
 .. image:: https://img.shields.io/pypi/v/python_coinpayments.svg
         :target: https://pypi.python.org/pypi/python_coinpayments
 
-.. image:: https://img.shields.io/travis/moshthepitt/python_coinpayments.svg
+.. image:: https://travis-ci.org/moshthepitt/python-coinpayments.svg?branch=master
         :target: https://travis-ci.org/moshthepitt/python_coinpayments
 
 .. image:: https://readthedocs.org/projects/python-coinpayments/badge/?version=latest
